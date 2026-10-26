@@ -397,7 +397,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 - **[PainPoint Daily](https://painpointdaily.com)**
 
-  Daily-updated directory of startup and business ideas drawn from real problems people post on Reddit, each with the source threads and an opportunity score.
+  Startup opportunity briefs from real problems people post on Reddit, new every day.
 
 ### Courses
 
