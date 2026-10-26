@@ -397,7 +397,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 - **[PainPoint Daily](https://painpointdaily.com)**
 
-  Startup opportunity briefs from real problems people post on Reddit, new every day.
+  Business opportunities for real problems people post on Reddit, new every day.
 
 ### Courses
 
